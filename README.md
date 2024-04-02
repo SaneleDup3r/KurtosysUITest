@@ -1,4 +1,4 @@
-#How to Run Tests
+How to Run Tests
 
 >> Need to install visual studio 22 or latest
 >> Then download the project as a zip file
