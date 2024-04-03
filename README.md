@@ -1,4 +1,6 @@
-How to Run Tests
+# Framework used : Playwright with .Net
+
+# How to Run Tests
 
 1. Need to install visual studio 22 or latest
 2. Then download the project as a zip file
